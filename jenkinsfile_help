@@ -1,0 +1,5 @@
+create credentials in jenkins with variable name:
+git-creds --> for github cred
+credentialsId: 'docker-pwd', variable: 'dockerHubPwd' --> for docker hub cred
+for Running Container on Dev Server (here we have used ec2 server). change the ip as per your ec2 sever details (ec2-user@172.31.18.198)
+ref: https://youtu.be/gdbA3vR2eDs
