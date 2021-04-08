@@ -1,6 +1,6 @@
 # jenkins_CICDpipeline_docker
 
-This video covers, CI & CD of docker based application using Jenkins Pipeline scripts (Groovy DSL)
+This covers, CI & CD of docker based application using Jenkins Pipeline scripts (Groovy DSL)
 stages: 
 git clone 
 maven build and creating a war package in target folder
